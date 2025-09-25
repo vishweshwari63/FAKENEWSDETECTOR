@@ -1,23 +1,11 @@
-# Streamlit for the web app
 streamlit==1.29.0
-
-# Transformers library for NLP pipelines
-transformers==4.45.2
-
-# PyTorch - latest available for Python 3.13
-torch==2.8.0
-
-# For parsing HTML if needed
-beautifulsoup4==4.13.5
-
-# NLTK for text processing
+pandas==2.1.1
+scikit-learn==1.3.2
+joblib==1.3.2
 nltk==3.9.1
-
-# Optional: Requests library for fetching articles from URLs
-requests==2.32.3
-
-# Optional: Lxml parser for faster HTML parsing
-lxml==5.3.0
-
-# Optional: Pandas if you are handling CSV or tabular data
-pandas==2.2.3
+transformers==4.35.0
+torch==2.8.0
+newspaper3k==0.2.8
+beautifulsoup4==4.13.5
+lxml==4.9.3
+requests==2.31.0
