@@ -1,7 +1,7 @@
 📰 Fake News Detector & Summarizer
 
 An AI-powered web application built with Streamlit, HuggingFace Transformers, and NLTK that helps detect fake news and generate concise article summaries.
-
+Deploy Link : https://fakenewsdetector-oe649bpchqpkqesui2xn7g.streamlit.app/
 🚀 Features
 
 ✅ Classifies news as Real or Fake with confidence score.
